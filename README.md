@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا نور قلبي في كل ليلة
+> أنت الروح وأنت الوسيلة
+> عيناك تسحرني في صمت
+> دعنا نعيش حبنا الليلة
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
